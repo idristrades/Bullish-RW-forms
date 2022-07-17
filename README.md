@@ -19,7 +19,7 @@ imo, saving time is everything for day traders (bots/humans).
 If you don't know what an RW form is, pleace Google it.
 "reading can seriously damage your ignorance”
 
-## My most recent form RW alert on Twitter was PETZ on July 12. ***"It did over 70% overnight."***
+## My most recent RW form alert on Twitter was PETZ on July 12. ***"It did over 70% overnight."***
 
 It was rejected at VWAP before end of AH trading session, and then found support at 200ema PM (10m chart).
 For anyone who wanted a piece of the pie, this was an easy 30-50% intraday play.
