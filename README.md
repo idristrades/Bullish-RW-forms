@@ -25,6 +25,8 @@ It was rejected at VWAP before end of AH trading session, and then found support
 For anyone who wanted a piece of the pie, this was an easy 30-50% intraday play.
 Bring up the chart for PETZ on July 12 - July 13, 2022 to study - if you're not familiar with this bullish pattern.
 
+[Check out the entire thread on Twitter](https://twitter.com/IdrisTrades/status/1547301338966523905?s=20&t=HJDi9g7GLtpbxjUq7OG1SQ)
+
 Feel free to use this Python program whaterver way you want. Maybe you could built something robust around it to help other traders.
 More people = more volume = more demand = more profits for all (hopefully).
 
